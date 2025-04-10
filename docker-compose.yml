@@ -1,5 +1,4 @@
 services:
-
   studio:
     container_name: supabase-studio
     image: supabase/studio:20250317-6955350
